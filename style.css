@@ -1,0 +1,18 @@
+h1 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+
+form {
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: green;
+}
+
+body {
+  background-image: url('cool.jpg') ;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-color: black;
+}
